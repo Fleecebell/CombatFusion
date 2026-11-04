@@ -1,0 +1,17 @@
+{
+    "name": "CombatFusion.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e52912a4ba3e23e4b8764933eac920cf",
+        "GUID:857386c95d6cd8f47b4c2d813623631f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

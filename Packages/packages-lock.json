@@ -135,6 +135,13 @@
       },
       "url": "https://packages.unity.cn"
     },
+    "com.veriorpies.parrelsync": {
+      "version": "https://github.com/VeriorPies/ParrelSync.git?path=ParrelSync#1.5.3",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8072a6094026686562e8a866ca856897a24e9c79"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

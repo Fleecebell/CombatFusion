@@ -1,0 +1,18 @@
+{
+    "name": "CombatFusion.Gameplay",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e52912a4ba3e23e4b8764933eac920cf",
+        "GUID:7caf2a557cf70864489dd0b65c1b7e85",
+        "GUID:343487bf7f43cbe4799252191ff49fcd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "CombatFusion.Network",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:e52912a4ba3e23e4b8764933eac920cf",
+        "GUID:7caf2a557cf70864489dd0b65c1b7e85"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

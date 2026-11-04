@@ -1,0 +1,16 @@
+{
+    "name": "CombatFusion.Config",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e52912a4ba3e23e4b8764933eac920cf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
