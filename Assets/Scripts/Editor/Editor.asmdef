@@ -1,13 +1,14 @@
 {
-    "name": "CombatFusion.Network",
+    "name": "Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:30817c1a0e6d646d99c048fc403f5979",
         "GUID:e52912a4ba3e23e4b8764933eac920cf",
-        "GUID:7caf2a557cf70864489dd0b65c1b7e85"
+        "GUID:857386c95d6cd8f47b4c2d813623631f"
     ],
     "includePlatforms": [],
-    "excludePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
